@@ -1,0 +1,2 @@
+piersza linia w pierwszy.txt
+druga linia w pierwszy.txt
