@@ -1,2 +1,3 @@
 piersza linia w pierwszy.txt
 druga linia w pierwszy.txt
+trzecia linia w pierwszy.txt
